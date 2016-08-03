@@ -18,7 +18,7 @@ config:
     global: true
 screenshots:
   - screenshot: images/screenshot1.png
-  - screenshot: images/screenshot2.jpg
+  - screenshot: images/screenshot2.png
 slackscopes:
   - bot
   - commands
