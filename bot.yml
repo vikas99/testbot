@@ -3,7 +3,7 @@ author: Vikas Singhal
 author_avatar: images/author_avatar.png
 email: vikas.in@gmail.com
 description: A simple bot sample.
-avatar: images/avatar.jpg
+avatar: images/author_avatar.png
 background: images/background.png
 config:
   - name: OPTION
